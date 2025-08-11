@@ -41,6 +41,11 @@ Offline support
 <img width="928" height="555" alt="image" src="https://github.com/user-attachments/assets/6d1ba29c-85f3-4b60-9bd3-0b971fddc4b6" />
 
 
+
+<img width="881" height="395" alt="image" src="https://github.com/user-attachments/assets/a6606853-1d0d-4744-a43d-bc7a296d81a5" />
+
+
+
 🛠️ Phase 3: Development Milestones
 🔹 Milestone 1: Sensor Integration
 Access accelerometer and gyroscope
