@@ -37,22 +37,10 @@ Offline support
 
 🏗️ Phase 2: Architecture & Design
 📦 Modules
-Module	Description
-Sensor Manager	Captures accelerometer and gyroscope data
-Activity Classifier	Detects user activity using thresholds or ML
-Location Tracker	Collects GPS coordinates
-Map Renderer	Displays travel path on map
-Data Logger	Stores activity and location data
-UI Dashboard	Visualizes metrics, charts, and maps
-Notification Engine	Sends alerts and reminders
-Security Layer	Encrypts sensitive data
-🧱 Suggested Tech Stack
-Layer	Technology
-Frontend	Android (Java/Kotlin), iOS (Swift)
-Backend	Firebase / SQLite / Room
-Maps	Google Maps SDK / Mapbox
-ML (optional)	TensorFlow Lite / Core ML
-Encryption	Custom Hill cipher / AES
+
+<img width="928" height="555" alt="image" src="https://github.com/user-attachments/assets/6d1ba29c-85f3-4b60-9bd3-0b971fddc4b6" />
+
+
 🛠️ Phase 3: Development Milestones
 🔹 Milestone 1: Sensor Integration
 Access accelerometer and gyroscope
